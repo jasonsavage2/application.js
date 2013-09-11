@@ -197,7 +197,8 @@ If your site is already using jQuery globally, then you can use jquery.applicati
 
 ## Support
 
-If you have any comments, suggestions or general feedback, let me know! I've used this script on a bunch of smaller projects but I'm sure there is room for improvment.
+If you have any comments, suggestions or general feedback, let me know! I've used this script on a bunch of smaller projects but I'm sure there is room for improvement.
+
 This script was created and is maintained by: [Jason Savage](jason.savage2@gmail.com)
 
 
