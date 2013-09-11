@@ -19,7 +19,7 @@ you may have third party framework/vendor scripts (or libs), for example jquery.
 These scripts will go into a folder named "js/vendor" and are not compressed since they are loaded as needed by your modules. 
 It is a good idea to use the compressed version of these scripts to speed up load times.
 
-The compile_js.rb files are used to compress all your modules into one small file (application.min.js) that is loaded on every page of your website. 
+The compile_js.rb file is used to compress all your modules into one small file (application.min.js) that is loaded on every page of your website. 
 Even though it's loaded on every page, since it has the same name and is compressed, 
 it ends up being cached by the browser and is much faster than loading a list of *.js files on each page. 
 
@@ -195,6 +195,9 @@ If your site is already using jQuery globally, then you can use jquery.applicati
 
 
 
+## Support
 
+If you have any comments, suggestions or general feedback, let me know! I've used this script on a bunch of smaller projects but I'm sure there is room for improvment.
+This script was created and is maintained by: [Jason Savage](jason.savage2@gmail.com)
 
 
